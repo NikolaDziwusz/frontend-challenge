@@ -11,10 +11,12 @@
   "dependencies": {
     "@fontsource/material-symbols-outlined": "^5.2.5",
     "framer-motion": "^12.4.10",
+    "html2canvas": "^1.4.1",
     "idb": "^8.0.2",
     "next": "15.2.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-screen-capture": "^1.1.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
